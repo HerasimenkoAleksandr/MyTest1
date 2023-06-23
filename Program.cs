@@ -41,7 +41,9 @@ namespace ConsoleApp11
 
         public void Show_list_1_and_2()
         {
-            Console.Write("Первая коллекция: ");
+            Console.Write("Первая коллекция-: ");
+
+            Console.Write("Первая коллекция-: ");
             foreach (int i in list1)
             {
                 Console.Write(i + " ");
